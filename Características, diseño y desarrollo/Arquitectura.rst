@@ -39,7 +39,7 @@ El ciclo de una petición en QuickAppsCMS
    :scale: 80%
    :align: center
 
-    Manejo de una petición típica en QuickAppsCMS.
+   Manejo de una petición típica en QuickAppsCMS.
 
 El ciclo de una petición típica en QuickAppsCMS comienza cuando un usuario
 solicita una página o un recurso. A un nivel muy alto de abstracción esta
@@ -90,7 +90,7 @@ los distintos elementos de la arquitectura.
    :scale: 80%
    :align: center
 
-    Arquitectura QuickAppsCMS.
+   Arquitectura QuickAppsCMS.
 
 Es importante señalar que alguno de los plugins del núcleo actúan de forma
 pasiva, es decir, los usuarios no interaccionan con ellos de forma directa, sino

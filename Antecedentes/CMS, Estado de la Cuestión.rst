@@ -39,7 +39,7 @@ Gestor de ficheros & add-on & SI & add-on \\ [5pt]
 Soporte UTF-8 & SI & limitado & SI \\ [5pt]
 \bottomrule
 \end{tabular}
-\caption{Tabla comparativa Wordpress, Joomla y Drupal.}
+\caption{Tabla comparativa Wordpress, Joomla y Drupal. Fuente: comentum.com}
 \end{table}`
 
 

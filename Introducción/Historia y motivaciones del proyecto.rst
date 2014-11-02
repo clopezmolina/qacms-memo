@@ -25,7 +25,7 @@ resultado un CMS con unas bases tecnológicas y cualidades únicas de alto valor
 para un desarrollador.
 
 Además de contar con unas bases tecnológicas sólidas debía también ofrecer un
-conjunto de funcionalidades lo suficientemente grande para cubrir una amplia
+conjunto de funcionalidades lo suficientemente extensa para cubrir una amplia
 gama de necesidad, por ello *QuickAppsCMS* hereda algunas de las mejores ideas
 de los CMS más populares en la actualidad. A día de hoy, los dos CMS más
 populares son indiscutiblemente `Drupal <https://www.drupal.org/>`__ y
@@ -70,11 +70,12 @@ versiones anteriores. Así, la presente memoria se centra en **QuickAppsCMS v2**
 la segunda versión de este CMS. Esta vez utilizando CakePHP v3 como base
 tecnológica; he reconstruido desde cero el CMS en su totalidad eliminando por
 completo todos los aspectos negativos surgidos en la primera versión y
-aprovechando al máximo las nuevas características introducidas por el framework
-y por las últimas versiones de PHP. Para mayor información se invita al lector a
-consultar en la  `web oficial del proyecto <http://quickappscms.org>`__ la hoja
-de rutas seguida para el desarrollo de esta nueva versión, así mismo, las
-políticas de versionado  que se encuentran en el repositorio oficial de `GitHub
+aprovechando al máximo las nuevas características introducidas tanto por el
+framework y como por las últimas versiones de PHP. Para mayor información se
+invita al lector a consultar en la `web oficial del proyecto
+<http://quickappscms.org>`__ la hoja de rutas seguida para el desarrollo de esta
+nueva versión, así mismo, las políticas de versionado que se encuentran en el
+repositorio oficial de `GitHub
 <https://github.com/quickapps/docs/blob/1.x/eng/developers/versioning-
 policy.md>`__.
 
